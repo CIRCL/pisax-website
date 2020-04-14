@@ -4,7 +4,7 @@ url: "https://www.pisax.org"
 
 # THEME-SPECIFIC CONFIGURATION
 title: PISAX - pan-European Information Sharing and Analysis Center (ISAC) to IXPs and GRXs                                  # site's title
-description: "A website with blog posts and pages"      # used by search engines
+description: "PISAX - pan-European Information Sharing and Analysis Center (ISAC) to IXPs and GRXs"      # used by search engines
 avatar: assets/img/pisax.jpg                        # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: PISAX - stronger together  # Change Blog header text
 header_feature_image: assets/img/pisax.jpg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+        <img src="https://www.misp-project.org/assets/images/en_cef.png" width="75%" height="75%"/>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
@@ -50,4 +50,4 @@ exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "
           "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+#remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
