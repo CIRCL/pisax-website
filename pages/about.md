@@ -21,9 +21,7 @@ The development of the scripts and MISP enhancements will be released in open so
 
 # Why?
 
-Information Sharing is becoming a key element to incident response it evolves from simple indicator sharing to advanced threat description. As threat contextualization improves, dedicated sharing communities hav
-e appeared. Internet Exchange Point or dedicated IP exchange point (e.g. GRX) are critical to Internet stability PISAX project has the goal to improve the information sharing aspects of IXP/GRXPISAX will allow I
-X and GRX community to share security information in order to:
+Information Sharing is becoming a key element to incident response it evolves from simple indicator sharing to advanced threat description. As threat contextualization improves, dedicated sharing communities have appeared. Internet Exchange Point or dedicated IP exchange point (e.g. GRX) are critical to Internet stability PISAX project has the goal to improve the information sharing aspects of IXP/GRXPISAX will allow IX and GRX community to share security information in order to:
 
  - Help the community facing Cyber-threats
  - Support faster reaction to Europe-wide attacks
@@ -32,10 +30,10 @@ X and GRX community to share security information in order to:
 
 # Who?
 
- - LU-CIX
- - POST
- - CIRCL/SMILE
+ - [LU-CIX](https://www.lu-cix.lu/)
+ - [POST](https://www.post.lu/)
+ - [CIRCL/SMILE](https://www.circl.lu/)
 
 # When?
 
-The PISAX platform, a publicly accessible web-based interface, is expected for mid 2020. 
+The PISAX platform, a publicly accessible web-based interface, is expected for mid 2020.
