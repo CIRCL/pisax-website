@@ -36,4 +36,4 @@ Information Sharing is becoming a key element to incident response it evolves fr
 
 # When?
 
-The PISAX platform, a publicly accessible web-based interface, is expected for mid 2020.
+The PISAX platform, a publicly accessible web-based interface, is available. You can [self-register on the interface](https://misp.pisax.org/users/register).
