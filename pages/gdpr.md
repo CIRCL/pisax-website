@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PISAX and Data Protection
-permalink: /share/
+permalink: /gdpr/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [legal]
 ---
