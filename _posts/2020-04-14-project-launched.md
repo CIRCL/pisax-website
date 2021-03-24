@@ -11,17 +11,14 @@ The Action's overall objective is to create a common pan-European Information Sh
 
 IXPs are the infrastructures connecting Internet Service Providers in a country or across countries. GRXs are also connecting network systems but focus on connecting Roaming networks.
 
-The Action will provide an automated and secure threat intelligence sharing system for these entities building on the existing Malware Information Sharing Platform (MISP) hence improving their current state of s
+The Action will provide an automated and secure threat intelligence sharing system for these entities building on the existing [MISP Platform](https://www.misp-project.org/) hence improving their current state of s
 ecurity.
 
 <!--more-->
 
-The [MISP threat sharing platform](https://www.misp-project.org/) is a free and open source software helping information sharing of threat intelligence including cybersecurity indicators. A threat intelligence p
-latform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism informa
-tion.
+The [MISP threat sharing platform](https://www.misp-project.org/) is a free and open source software helping information sharing of threat intelligence including cybersecurity indicators. A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information.
 
-The development of the scripts and MISP enhancements will be released in open source. The Action will also improve the beneficiary's cooperation with relevant cybersecurity stakeholders at the national and Europ
-ean level.
+The development of the scripts and MISP enhancements will be released in open source. The Action will also improve the beneficiary's cooperation with relevant cybersecurity stakeholders at the national and European level.
 
 Don't hesitate [contact us](/contact) if you have any question or ideas.
 
